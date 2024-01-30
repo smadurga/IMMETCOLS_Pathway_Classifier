@@ -7,4 +7,6 @@ A selection of 20 KEGG pathways is used to predict with Simple Sample methodolog
 Author: Sergio Madurga   (Universitat de Barcelona)
 
 
-## Jupyte Notebook:
+### Jupyte Notebook:
+
+Organoid_Classifier_IMMETCOLS_v1.2.ipynb
